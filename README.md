@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nom: Mamadou Alpha Barry<br>Titre: Data Analyst | Data Scientist<br>Email: barrymamadoualpha2022@gmail.com | Téléphone: +221771624774<br><br>Je suis un Data Analyst | Data scientist passionné par l'extraction d'informations exploitables à partir de données complexes. <br>Grâce à une solide formation en intelligence artificielle et une expérience pratique dans l'analyse de données, <br>je transforme des données brutes en informations stratégiques pour aider les entreprises à prendre des décisions éclairées.
+Nom: Mamadou Alpha Barry<br>Titre: Data Analyst | Data Scientist<br> Email: barrymamadoualpha2022@gmail.com | Téléphone: +221771624774<br><br>Je suis un Data Analyst | Data scientist passionné par l'extraction d'informations exploitables à partir de données complexes. <br>Grâce à une solide formation en intelligence artificielle et une expérience pratique dans l'analyse de données, <br>je transforme des données brutes en informations stratégiques pour aider les entreprises à prendre des décisions éclairées.
 
 
 ## 🌐 Socials:
